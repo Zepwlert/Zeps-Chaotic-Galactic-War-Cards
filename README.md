@@ -20,8 +20,7 @@ This mod adds six different extra loadouts to pick from before starting a war, c
 
 Requires [Galactic War Overhaul](https://github.com/Quitch/GW-AI-Overhaul) (`com.pa.quitch.gwaioverhaul`).
 
-Put this folder in your PA `client_mods` folder (for example `client_mods/ZepsChaoticGalacticWarCards`)
-and enable it in the in-game Community Mods menu. Every player in a co-op war needs it.
+Put the folder "ZepsChaoticGalacticWarCards" in your PA `client_mods` folder and enable it in the in-game Community Mods menu. Every player in a co-op war needs it.
 
 ## Development
 
