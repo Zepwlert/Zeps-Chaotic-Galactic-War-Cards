@@ -1,7 +1,7 @@
 # Zeps Chaotic Galactic War Cards (ZGWC)
 
-A Planetary Annihilation: TITANS client mod by **Zepwlert** that adds loadouts and tech cards to Galactic War.
-It runs on top of [Galactic War Overhaul](https://github.com/Quitch/GW-AI-Overhaul) (GWO).
+A Planetary Annihilation: TITANS mod that adds extra loadouts and tech cards to Galactic War.
+Made possible because of: [Galactic War Overhaul](https://github.com/Quitch/GW-AI-Overhaul) (GWO).
 
 ## What's in it
 
