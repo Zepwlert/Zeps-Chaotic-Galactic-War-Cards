@@ -29,7 +29,7 @@ It runs on top of [Galactic War Overhaul](https://github.com/Quitch/GW-AI-Overha
 
 Requires [Galactic War Overhaul](https://github.com/Quitch/GW-AI-Overhaul) (`com.pa.quitch.gwaioverhaul`).
 
-Put this folder in your PA `client_mods` folder (for example `client_mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/`)
+Put this folder in your PA `client_mods` folder (for example `client_mods/ZepsChaoticGalacticWarCards`)
 and enable it in the in-game Community Mods menu. Every player in a co-op war needs it.
 
 ## Development
