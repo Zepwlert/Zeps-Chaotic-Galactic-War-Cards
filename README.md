@@ -5,25 +5,14 @@ It runs on top of [Galactic War Overhaul](https://github.com/Quitch/GW-AI-Overha
 
 ## What's in it
 
-**Loadouts (6)**
-
-| Loadout | Idea |
-| --- | --- |
-| Air Maniac | Massively more air power at the cost of everything else |
-| Bot Maniac | The same, for bots |
-| Vehicle Maniac | The same, for vehicles |
-| Orbital Maniac | The same, for orbital units |
-| One Man Army | Extreme health, damage, ROF, range and speed for units and defences, at 5x the cost |
-| Regeneration | The Commander, units and structures heal over time, the Commander fastest |
+**Loadouts**
+This mod adds six different extra loadouts to pick from before starting a war, changing up the way you play.
 
 **Tech cards**
 
-- **Bug upgrades (51)** and **Legion upgrades (44)**: one card per unit.
-- **Special upgrades (3)**
-  - *Chemo Therapy*: removes 75% of the damage taken from being ill.
-  - *True Regeneration*: all units and structures heal 250 hp per second.
-  - *Warp Mastery*: warped units are not vulnerable and can move at once; the warp costs 75% less energy.
-- **Protocol: ROF** and 10 general upgrades (energy and metal, Angel, Mend, Skitter, Stitch, Ward, and more).
+- Bug upgrades and Legion upgrades.
+- A few special commander upgrades.
+- General Upgrades that improve regular features.
 
 ## Install
 
