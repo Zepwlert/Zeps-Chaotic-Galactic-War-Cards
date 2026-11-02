@@ -7,6 +7,7 @@ Made possible because of: [Galactic War Overhaul](https://github.com/Quitch/GW-A
 ## What's in it
 
 **Loadouts**
+
 This mod adds six different extra loadouts to pick from before starting a war, changing up the way you play.
 
 **Tech cards**
