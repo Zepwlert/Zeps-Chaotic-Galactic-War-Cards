@@ -22,17 +22,6 @@ Requires [Galactic War Overhaul](https://github.com/Quitch/GW-AI-Overhaul) (`com
 
 Put the folder "ZepsChaoticGalacticWarCards" in your PA `client_mods` folder and enable it in the in-game Community Mods menu. Every player in a co-op war needs it.
 
-## Development
-
-```
-npm install
-npm run lint:js
-```
-
-Everything under `ui/main/game/galactic_war/cards/` is one card per file. The registration and card lists are in
-`ui/mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/`. The mod grew out of a card template; its guide is kept in
-[`docs/TEMPLATE_GUIDE.md`](docs/TEMPLATE_GUIDE.md), and `CLAUDE.md` holds the rules for writing cards safely.
-
 ## License
 
 Unlicense (public domain), see `LICENSE`.
