@@ -39,14 +39,8 @@ Using Quitch's template I started building the cards. I built all the legion car
 
 ## Development
 
-```
-npm install
-npm run lint:js
-```
-
 Each card is one file in `ui/main/game/galactic_war/cards/`. The card lists and loaders are in
-`ui/mods/com.pa.zepwlert.zepschaoticgalacticwarcards/`. The template's guide is kept in
-[`docs/TEMPLATE_GUIDE.md`](docs/TEMPLATE_GUIDE.md), and `CLAUDE.md` holds the rules for writing cards safely.
+`ui/mods/com.pa.zepwlert.zepschaoticgalacticwarcards/`.
 
 ## Maintenance
 
