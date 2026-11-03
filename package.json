@@ -1,9 +1,9 @@
 {
-  "name": "new-gw-cards",
+  "name": "zeps-chaotic-galactic-war-cards",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Template for adding new Galactic War loadouts and tech cards to Planetary Annihilation: TITANS (requires GW-AI-Overhaul)",
+  "description": "Zeps chaotic galactic war cards: loadouts and tech cards for Galactic War in Planetary Annihilation: TITANS (requires GW-AI-Overhaul)",
   "license": "Unlicense",
   "scripts": {
     "lint:js": "eslint ."

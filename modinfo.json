@@ -1,40 +1,37 @@
 {
   "context": "client",
-  "identifier": "com.pa.Zepwlert.ZepsChaoticGalacticWarCards",
+  "identifier": "com.pa.zepwlert.zepschaoticgalacticwarcards",
   "display_name": "Zeps chaotic galactic war cards",
-  "description": "Adds loadouts (Air, Bot, Vehicle and Orbital Maniac, One Man Army, Regeneration) and over 100 unit and special tech cards that change up the way you play Galactic War. Requires Galactic War Overhaul.",
+  "description": "Adds a bunch of new cards and six loadouts for Galactic War Overhaul, adds Legion and Bugs card upgrades too. Requires Galactic War Overhaul.",
   "author": "Zepwlert",
-  "version": "1.1.0",
-  "build": "1",
-  "date": "2026-11-02",
+  "version": "1.1.1",
+  "build": "124685",
+  "date": "2026-11-03",
   "signature": " ",
-  "forum": "https://steamcommunity.com/app/386070/discussions/0/THREAD_ID/",
+  "forum": "https://github.com/Zepwlert/Zeps-Chaotic-Galactic-War-Cards/discussions/1",
   "category": [
     "titans",
     "gw",
     "card"
   ],
-  "icon": "icon.png",
+  "icon": "https://raw.githubusercontent.com/Zepwlert/Zeps-Chaotic-Galactic-War-Cards/main/icon.png",
   "scenes": {
     "gw_play": [
-      "coui://ui/mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/start_cards.js",
-      "coui://ui/mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/tech_cards.js",
-      "coui://ui/mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/decks.js",
-      "coui://ui/mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/specs.js"
+      "coui://ui/mods/com.pa.zepwlert.zepschaoticgalacticwarcards/start_cards.js",
+      "coui://ui/mods/com.pa.zepwlert.zepschaoticgalacticwarcards/tech_cards.js",
+      "coui://ui/mods/com.pa.zepwlert.zepschaoticgalacticwarcards/specs.js"
     ],
     "gw_start": [
-      "coui://ui/mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/start_cards.js",
-      "coui://ui/mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/decks.js"
+      "coui://ui/mods/com.pa.zepwlert.zepschaoticgalacticwarcards/start_cards.js"
     ],
     "gw_coop_per_player_loadout": [
-      "coui://ui/mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/start_cards.js",
-      "coui://ui/mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/tech_cards.js",
-      "coui://ui/mods/com.pa.Zepwlert.ZepsChaoticGalacticWarCards/decks.js"
+      "coui://ui/mods/com.pa.zepwlert.zepschaoticgalacticwarcards/start_cards.js",
+      "coui://ui/mods/com.pa.zepwlert.zepschaoticgalacticwarcards/tech_cards.js"
     ]
   },
   "priority": 100,
   "titansOnly": true,
-  "galacticWarMod": false,
+  "galacticWarMod": true,
   "dependencies": [
     "com.pa.quitch.gwaioverhaul"
   ]
